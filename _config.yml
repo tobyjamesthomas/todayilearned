@@ -11,7 +11,7 @@ url: https://humanstartup.ca
 about_enabled: true # Change to true if you wish to show an icon in the navigation that redirects to the about page
 baseurl: # Set if blog doesn't sit at the root of the domain (format: /blog)
 discus_identifier: tobythomas
-ga_analytics: UA-111684074-1
+ga_analytics: UA-111684074-2
 rss_enabled: true # Change to false if not
 scrollappear_enabled: false # Change to false to disable
 social:
