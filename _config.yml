@@ -3,8 +3,8 @@
 blog_theme: light # Or use dark
 name: Human Startup
 paginate: 10
-url: https://humanstartup.ca
-
+url: https://til.humanstartup.ca
+domain: https://humanstartup.ca
 
 # Optional settings
 
