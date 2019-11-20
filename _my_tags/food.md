@@ -1,4 +1,0 @@
----
-slug: food
-name: food
----
