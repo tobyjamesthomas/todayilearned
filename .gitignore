@@ -9,6 +9,7 @@ Thumbs.db
 /_assets/yarn/
 /_site/
 /.jekyll-cache/
+/_extra/
 Gemfile.lock
 yarn.lock
 *.swp
