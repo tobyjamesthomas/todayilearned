@@ -7,6 +7,14 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Why vim uses hjkl as arrow keys. ⬅️⬇️⬆️➡️</title>
+        <description></description>
+        <pubDate>Sun, 24 Nov 2019 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/posts/vim-key-bindings</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/vim-key-bindings</guid>
+      </item>
+    
+      <item>
         <title>Maximize a tmux pane with prefix + z. 🖥</title>
         <description></description>
         <pubDate>Tue, 19 Nov 2019 00:00:00 -0500</pubDate>
